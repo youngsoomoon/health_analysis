@@ -21,7 +21,7 @@
 ### 공공데이터 로드
 34개의 컬럼으로 이루어진 100만개의 데이터 엑셀파일을 데이터 프레임으로 로드
 
-![image](https://user-images.githubusercontent.com/74235867/117747762-bdb45180-b249-11eb-970b-a1cc29feb902.png)
+![image](https://user-images.githubusercontent.com/74235867/117749817-5e584080-b24d-11eb-9acc-05fa7f30f51b.png)
 
 ### :page_with_curl:데이터 미리보기
 ![image](https://user-images.githubusercontent.com/74235867/117747790-c9077d00-b249-11eb-8fb1-2dd9e24ca90f.png)
